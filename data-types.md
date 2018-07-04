@@ -10,28 +10,27 @@
 2 ** 3
 ```
 ```text
-Your answer.
+exponet
 ```
 
 ```rb
 ((16 / 4) * (2 + 1)) ** 2
 ```
 ```text
-Your answer.
+order of opp
 ```
 
 ```rb
 ("a milli " + "a milli") * 3
 ```
 ```text
-Your answer.
-```
+a milli a milli 3 times... lil wayne```
 
 ```rb
 ("a milli " * 4) / 2
 ```
 ```text
-Your answer.
+error out
 ```
 
 ```rb
@@ -39,7 +38,7 @@ my_favorite_number = 13
 puts "My favorite number is: " + my_favorite_number
 ```
 ```text
-Your answer.
+cant put a number in a string|| puts= put string
 ```
 
 ```rb
@@ -47,7 +46,7 @@ my_favorite_number = 13
 puts "My favorite number is: #{my_favorite_number}"
 ```
 ```text
-Your answer.
+My favorite numer is 13.
 ```
 
 ### Truthiness and Falsiness
